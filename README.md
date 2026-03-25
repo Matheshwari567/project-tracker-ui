@@ -3,14 +3,14 @@
 A multi-view project management UI build using react + typescript
 
 ------
-# Live Demo : matheshwari-project-tracker-live.netlify.app
+Live Demo : matheshwari-project-tracker-live.netlify.app
 
 # Features : 
 
-## Kanbanboard : 
+# Kanbanboard : 
       -drag and drop task between columns
       -custom drag and drop(no libraries)
-## Listview :
+# Listview :
       - sortable table
       -inline status change
       -virtual scrolling
