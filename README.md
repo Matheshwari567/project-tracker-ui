@@ -30,8 +30,8 @@ A multi-view project management UI build using react + typescript
 
 ### key implementation :
 
-# Drag and drop : Used native drag events for moving tasks between column.
-# virtual scrolling : Rendered only visible rows using scroll position for better performance.
+- Drag and drop : Used native drag events for moving tasks between column.
+- virtual scrolling : Rendered only visible rows using scroll position for better performance.
 
 -------------
 
